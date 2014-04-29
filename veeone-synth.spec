@@ -2,12 +2,12 @@
 
 Summary:	Old-school polyphonic sampler
 Name:		veeone-synth
-Version:	0.4.0
+Version:	0.4.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://downloads.sourceforge.net/%{rname}/%{rname}-%{version}.tar.gz
-# Source0-md5:	f32510e1f5065f574970b13035d9ff57
+# Source0-md5:	848413db4318819fd9fe8e0274845285
 URL:		http://synthv1.sourceforge.net
 BuildRequires:	QtDBus-devel
 BuildRequires:	QtGui-devel
